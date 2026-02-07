@@ -11,13 +11,19 @@ pip install -r requirements.txt
 ```
 
 ## 10-split CIFAR100
+```
 python qgpm_alexnet.py
+```
 
 ## 5-Datasets
+```
 python qgpm_resnet.py
+```
 
 ## 10-split miniImageNet
+```
 python qgpm_vit.py
+```
 
 ## Code reference
 * [GPM](https://github.com/sahagobinda/GPM/tree/main) 
