@@ -25,6 +25,6 @@ python qgpm_resnet.py
 python qgpm_vit.py
 ```
 
-## Code reference
-* [GPM](https://github.com/sahagobinda/GPM/tree/main) 
+## Acknowledgment
+Parts of this codebase were adapted from [GPM](https://github.com/sahagobinda/GPM/tree/main) 
 
