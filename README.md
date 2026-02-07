@@ -7,6 +7,22 @@ This repository contains the implementation for the paper [Quantized Gradient Pr
 ## TL;DR
 ### We propose QGPM, a memory-efficient and privacy-preserving continual learning framework that compresses task subspaces via quantization.
 
+## Conda Environment Setup
+
+To create and activate the Conda environment using the provided `environment.yml`, follow these steps:
+
+1. **Create the environment**:
+
+   ```bash
+   conda env create -f environment.yml
+   ```
+   
+2. **Activate the environment**:
+
+   ```bash
+   conda activate qgpm_env
+   ```
+
 ## 10-split CIFAR100
 ```
 python qgpm_alexnet.py
