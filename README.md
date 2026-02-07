@@ -1,4 +1,4 @@
-# Quantized Gradient Projection for Memory-Efficient Continual Learning
+# [ICLR 2026] Quantized Gradient Projection for Memory-Efficient Continual Learning
 This repository contains the implementation for the paper [Quantized Gradient Projection for Memory-Efficient Continual Learning, The Fourteenth International Conference on Learning Representations (ICLR 2026)](https://openreview.net/forum?id=xJtxpJ6QdD).
 
 
