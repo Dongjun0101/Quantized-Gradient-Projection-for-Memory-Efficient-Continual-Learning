@@ -17,9 +17,14 @@ python qgpm_alexnet.py
 python qgpm_resnet.py
 ```
 
-## 10-split miniImageNet
+## 10/20-split miniImageNet
+* 10-split
 ```
-python qgpm_vit.py
+python qgpm_vit.py --dataset=miniimagenet --num_tasks=10
+```
+* 20-split
+```
+python qgpm_vit.py --dataset=miniimagenet --num_tasks=20
 ```
 
 ## Acknowledgment
