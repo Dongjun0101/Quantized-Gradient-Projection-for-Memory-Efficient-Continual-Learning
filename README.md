@@ -1,4 +1,6 @@
 # [ICLR 2026] Quantized Gradient Projection for Memory-Efficient Continual Learning
+By [Dongjun Kim](https://github.com/Dongjun0101), Seohyeon Cha, Huancheng Chen, Chianing Wang, and Haris Vikalo
+
 This repository contains the implementation for the paper [Quantized Gradient Projection for Memory-Efficient Continual Learning, The Fourteenth International Conference on Learning Representations (ICLR 2026)](https://openreview.net/forum?id=xJtxpJ6QdD).
 
 
